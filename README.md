@@ -1,4 +1,4 @@
 Configuration Tree
 ==================
 
-See documentation at http://eden.tuxee.net/org/tree
+See documentation at https://tuxee.org/tree
